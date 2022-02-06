@@ -15,7 +15,7 @@ https://dibetespredictordemo.azurewebsites.net/
 https://github.com/DarshanGhorpade/Diabetes-Predictor
 
 ### Project Demo Video URL
-
+https://drive.google.com/file/d/1Vc6RtuIvtojibEKYyKsfezSC3P8QZ063/view?usp=sharing
 
 ### Project ScreenCaptures
 
