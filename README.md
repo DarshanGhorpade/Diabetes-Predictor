@@ -8,4 +8,4 @@ By using the statistical data about how certain aspects like BMI, Glucose level,
 
 
 # ___Deployment Link___ 
-!https://dibetespredictordemo.azurewebsites.net/
+![Diabetes Predictor](https://dibetespredictordemo.azurewebsites.net/)
